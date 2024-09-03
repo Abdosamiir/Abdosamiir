@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **barakatabdo82@gmail.com**
 
-- ⚡ Fun fact **i'm an advanced weightlifter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
