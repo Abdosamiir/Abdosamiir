@@ -17,6 +17,13 @@
 
 - 📫 How to reach me **barakatabdo82@gmail.com**
 
+- ## Technical Skills
+
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **TypeScript**
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **React**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
