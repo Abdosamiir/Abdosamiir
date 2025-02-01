@@ -1,12 +1,12 @@
 ## Hello mate 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdosamiir)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+stack+developer;A+software+engineer!;A+competitve+programmer!;&font=Fira%30Code&center=true&width=480&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Abdosamiir)
 <p align="left"> <a href="https://twitter.com/3bdullrahman__1" target="blank"><img src="https://img.shields.io/twitter/follow/3bdullrahman__1?logo=twitter&style=for-the-badge" alt="3bdullrahman__1" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs , Nodejs**
