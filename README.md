@@ -46,11 +46,10 @@
 
 ## GitHub Stats
 
-<div align="start" style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; gap: 24px; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=abdosamiir&show_icons=true&locale=en" alt="abdosamiir" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdosamiir&" alt="abdosamiir" height="180"/>
 </div>
-
-<div align="start" style="margin-top: 24px;">
+<div style="margin-top: 24px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdosamiir&show_icons=true&locale=en&layout=compact" alt="abdosamiir" />
 </div>
