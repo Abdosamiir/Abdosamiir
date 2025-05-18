@@ -46,7 +46,7 @@
 
 ## GitHub Stats
 
-<div align="start" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="start" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=abdosamiir&show_icons=true&locale=en" alt="abdosamiir" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdosamiir&" alt="abdosamiir" height="180"/>
 </div>
