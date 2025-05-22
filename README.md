@@ -42,7 +42,7 @@
 </p>
 
 
-<p align="left"> <a style="display: flex; gap: 10px; " href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdosamiir" alt="abdosamiir" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdosamiir&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats
 
